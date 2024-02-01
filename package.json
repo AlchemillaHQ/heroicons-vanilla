@@ -1,0 +1,22 @@
+{
+  "name": "heroicons-vanilla",
+  "version": "1.0.0",
+  "description": "A simple helper that wraps around heroicons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlchemillaHQ/heroicons-vanilla.git"
+  },
+  "author": "Alchemilla Private Limited",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlchemillaHQ/heroicons-vanilla/issues"
+  },
+  "homepage": "https://github.com/AlchemillaHQ/heroicons-vanilla#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
